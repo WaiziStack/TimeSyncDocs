@@ -421,19 +421,19 @@ table.dataTable thead .sorting_desc_disabled {
   background-position: center right; }
 
 table.dataTable thead .sorting {
-  background-image: url("../../images/sort_both.html"); }
+  background-image: url("../images/sort_both.html"); }
 
 table.dataTable thead .sorting_asc {
-  background-image: url("../../images/sort_asc.html"); }
+  background-image: url("../images/sort_asc.html"); }
 
 table.dataTable thead .sorting_desc {
-  background-image: url("../../images/sort_desc.html"); }
+  background-image: url("../images/sort_desc.html"); }
 
 table.dataTable thead .sorting_asc_disabled {
-  background-image: url("../../images/sort_asc_disabled.html"); }
+  background-image: url("../images/sort_asc_disabled.html"); }
 
 table.dataTable thead .sorting_desc_disabled {
-  background-image: url("../../images/sort_desc_disabled.html"); }
+  background-image: url("../images/sort_desc_disabled.html"); }
 
 div.dataTables_scrollHead table {
   margin-bottom: 0 !important; }
